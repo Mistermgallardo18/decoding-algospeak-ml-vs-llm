@@ -48,6 +48,11 @@ This repository reflects work completed for the Interim Progress Demonstration (
 - Initial LLM evaluation
 - Documentation of methodological challenges and next steps
 
+## Current Results (IPD stage)
+
+Baseline experiments using TF-IDF features with Logistic Regression and Naive Bayes achieved ~79% accuracy on an exploratory algospeak dataset. Results indicate strong performance on explicit algospeak but reduced effectiveness on neutral and context-dependent cases, motivating further comparison with Large Language Models.
+
+
 ## Ethical Considerations
 All data is publicly accessible text. Usernames and identifying information have been removed. The project complies with university ethical guidance for data science research.
 
